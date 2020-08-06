@@ -1,0 +1,394 @@
+{"brand":"MUSIC","year":2012,"count":92,"sale":1137.5099911689758,"avg_price":12.36423903444539}
+{"brand":"Enfamil","year":2014,"count":92,"sale":1312.1100120544434,"avg_price":14.262065348417863}
+{"brand":"Boba","year":2013,"count":92,"sale":6617.950061798096,"avg_price":71.93423980215321}
+{"brand":"FASH Limited","year":2013,"count":92,"sale":950.2099814414978,"avg_price":10.328369363494541}
+{"brand":"Educational Insights","year":2014,"count":92,"sale":1620.4300031661987,"avg_price":17.613369599632595}
+{"brand":"Gefen","year":2013,"count":92,"sale":1898.1199417114258,"avg_price":20.631738496863324}
+{"brand":"Micro SATA Cables","year":2014,"count":92,"sale":731.6200048923492,"avg_price":7.952391357525535}
+{"brand":"Verilux","year":2012,"count":92,"sale":3882.6100540161133,"avg_price":42.20228319582732}
+{"brand":"Rubbermaid Commercial","year":2013,"count":92,"sale":926.4999895095825,"avg_price":10.070652059886767}
+{"brand":"Bakers &amp; Chefs","year":2013,"count":92,"sale":1144.5199937820435,"avg_price":12.440434715022212}
+{"brand":"Wimmer Ferguson","year":2013,"count":92,"sale":1513.7399883270264,"avg_price":16.453695525293764}
+{"brand":"MCA","year":2014,"count":92,"sale":1973.0699982643127,"avg_price":21.446413024612095}
+{"brand":"Bruder Toys","year":2014,"count":92,"sale":3510.3999881744385,"avg_price":38.156521610591724}
+{"brand":"Homer Laughlin","year":2011,"count":92,"sale":1825.360013961792,"avg_price":19.840869716975998}
+{"brand":"Accu Chek","year":2013,"count":92,"sale":2925.6099519729614,"avg_price":31.800108173619147}
+{"brand":"DataComm Electronics","year":2013,"count":92,"sale":435.0499806404114,"avg_price":4.728804137395776}
+{"brand":"CruzerLite","year":2012,"count":92,"sale":1111.7999649047852,"avg_price":12.084782227225926}
+{"brand":"Comply","year":2011,"count":92,"sale":1622.0800285339355,"avg_price":17.63130465797756}
+{"brand":"Magellan","year":2010,"count":92,"sale":7165.370052814484,"avg_price":77.88445709580961}
+{"brand":"CrazyOnDigital","year":2011,"count":92,"sale":295.6699948310852,"avg_price":3.2138042916422305}
+{"brand":"Ezy Dose","year":2014,"count":92,"sale":523.7899870872498,"avg_price":5.693369424861411}
+{"brand":"Chums","year":2013,"count":92,"sale":762.4300193786621,"avg_price":8.287282819333283}
+{"brand":"GunVault","year":2012,"count":92,"sale":3877.929998397827,"avg_price":42.15141302606334}
+{"brand":"Darice","year":2014,"count":92,"sale":569.3699957728386,"avg_price":6.1888043018786805}
+{"brand":"Pandamimi","year":2014,"count":92,"sale":212.62000167369843,"avg_price":2.3110869747141134}
+{"brand":"Bruder Toys","year":2013,"count":92,"sale":3846.609983444214,"avg_price":41.81097808091537}
+{"brand":"Merkur","year":2011,"count":92,"sale":3481.2499799728394,"avg_price":37.83967369535695}
+{"brand":"Dreamfoam Bedding","year":2014,"count":92,"sale":11087.800033569336,"avg_price":120.51956558227539}
+{"brand":"Comotomo","year":2014,"count":92,"sale":1242.040002822876,"avg_price":13.50043481329213}
+{"brand":"Dream Supreme Plus","year":2013,"count":92,"sale":2299.079978942871,"avg_price":24.989999771118164}
+{"brand":"Dell","year":2010,"count":92,"sale":4746.2000052928925,"avg_price":51.58913049231405}
+{"brand":"Profile Design","year":2013,"count":92,"sale":4406.830006599426,"avg_price":47.90032615868942}
+{"brand":"KLOUD City","year":2013,"count":92,"sale":1012.2599940299988,"avg_price":11.002826022065204}
+{"brand":"Ipevo","year":2013,"count":92,"sale":5495.479976654053,"avg_price":59.73347800710927}
+{"brand":"Bissell","year":2008,"count":92,"sale":5038.070035934448,"avg_price":54.76163082537444}
+{"brand":"FunKo","year":2013,"count":92,"sale":816.049991607666,"avg_price":8.870108604431152}
+{"brand":"CATEYE","year":2012,"count":92,"sale":3623.5999813079834,"avg_price":39.38695631856503}
+{"brand":"OKGEAR","year":2013,"count":92,"sale":401.4099922180176,"avg_price":4.363152089326278}
+{"brand":"Regency Wraps","year":2014,"count":92,"sale":668.0399978160858,"avg_price":7.261304324087889}
+{"brand":"Pedag","year":2014,"count":92,"sale":946.1599798202515,"avg_price":10.284347606741864}
+{"brand":"Nordic Ware","year":2008,"count":92,"sale":1851.4800090789795,"avg_price":20.124782707380213}
+{"brand":"Bunn","year":2012,"count":92,"sale":8162.599938631058,"avg_price":88.72391237642454}
+{"brand":"Weleda","year":2013,"count":92,"sale":1145.5300035476685,"avg_price":12.451413082039874}
+{"brand":"Pachmayr","year":2014,"count":92,"sale":1594.2099962234497,"avg_price":17.328369524167933}
+{"brand":"Aura Cacia","year":2013,"count":92,"sale":844.7100086398423,"avg_price":9.181630528693939}
+{"brand":"Cobra","year":2011,"count":92,"sale":7060.749958992004,"avg_price":76.74728216295657}
+{"brand":"Ziploc","year":2011,"count":92,"sale":1705.4600343704224,"avg_price":18.53760906924372}
+{"brand":"WMF","year":2011,"count":92,"sale":1851.4700241088867,"avg_price":20.124674175096594}
+{"brand":"J.L. Childress","year":2014,"count":92,"sale":1413.0599899291992,"avg_price":15.35934771662173}
+{"brand":"Tokina","year":2013,"count":92,"sale":48092.96063232422,"avg_price":522.7495720904807}
+{"brand":"Rada Cutlery","year":2012,"count":92,"sale":651.6099961996078,"avg_price":7.082717349995738}
+{"brand":"Fat Daddios","year":2012,"count":92,"sale":1385.0500102043152,"avg_price":15.054891415264295}
+{"brand":"NEW Line Home Video","year":2005,"count":92,"sale":847.4299831390381,"avg_price":9.211195468902588}
+{"brand":"BonJour","year":2014,"count":92,"sale":4645.6398639678955,"avg_price":50.496085477911905}
+{"brand":"TCFHE","year":2007,"count":92,"sale":2948.6300868988037,"avg_price":32.050327031508736}
+{"brand":"Contigo","year":2011,"count":92,"sale":2303.0099906921387,"avg_price":25.03271729013194}
+{"brand":"Beauticom","year":2013,"count":91,"sale":543.019998125732,"avg_price":5.967252726656395}
+{"brand":"Infinity","year":2014,"count":91,"sale":10474.840003967285,"avg_price":115.1081319117284}
+{"brand":"Connectland","year":2014,"count":91,"sale":965.1999897956848,"avg_price":10.606593294458074}
+{"brand":"Lysol","year":2011,"count":91,"sale":1001.409984588623,"avg_price":11.004505325149704}
+{"brand":"GAIN","year":2013,"count":91,"sale":1536.7099719047546,"avg_price":16.886922768184117}
+{"brand":"Belly Blaster","year":2014,"count":91,"sale":2040.4000778198242,"avg_price":22.421978877140926}
+{"brand":"Frankford","year":2014,"count":91,"sale":1871.4800100326538,"avg_price":20.56571439596323}
+{"brand":"BOSS","year":2011,"count":91,"sale":4997.44996547699,"avg_price":54.91703258765923}
+{"brand":"Sexy Hair","year":2014,"count":91,"sale":1040.14998960495,"avg_price":11.430219665988462}
+{"brand":"Xit","year":2014,"count":91,"sale":2935.070036649704,"avg_price":32.253516886260485}
+{"brand":"Explorer","year":2014,"count":91,"sale":3976.820022583008,"avg_price":43.701318929483605}
+{"brand":"WOW","year":2013,"count":91,"sale":2292.7299880981445,"avg_price":25.194835034045543}
+{"brand":"Unitek","year":2014,"count":91,"sale":1850.0699796676636,"avg_price":20.33043933700729}
+{"brand":"Bracketron","year":2012,"count":91,"sale":1298.6699957847595,"avg_price":14.271098854777577}
+{"brand":"Dreambaby","year":2012,"count":91,"sale":976.499993801117,"avg_price":10.730769162649636}
+{"brand":"Elgato","year":2014,"count":91,"sale":11790.149612426758,"avg_price":129.5620836530413}
+{"brand":"Vidal Sassoon","year":2014,"count":91,"sale":1062.3699831962585,"avg_price":11.674395419739104}
+{"brand":"Genius","year":2012,"count":91,"sale":3218.49005651474,"avg_price":35.368022599063075}
+{"brand":"WEA DVD","year":2007,"count":91,"sale":1288.950002670288,"avg_price":14.16428574362954}
+{"brand":"Luigi Bormioli","year":2013,"count":91,"sale":2357.370014190674,"avg_price":25.905164991106307}
+{"brand":"Audio Technica","year":2014,"count":91,"sale":5506.769988059998,"avg_price":60.51395591274723}
+{"brand":"Dreamworks Skg","year":2012,"count":91,"sale":779.239990234375,"avg_price":8.563076815762363}
+{"brand":"My Little Pony","year":2012,"count":91,"sale":4438.740032196045,"avg_price":48.777362991165326}
+{"brand":"Magellan","year":2011,"count":91,"sale":13088.970005989075,"avg_price":143.83483523064916}
+{"brand":"Columbia","year":2014,"count":91,"sale":1806.1999907493591,"avg_price":19.848351546696254}
+{"brand":"FantaSea","year":2013,"count":91,"sale":484.45000171661377,"avg_price":5.323626392490262}
+{"brand":"Buxton","year":2014,"count":91,"sale":1508.8200092315674,"avg_price":16.580439661885357}
+{"brand":"Air Wick","year":2011,"count":91,"sale":776.3699812889099,"avg_price":8.531538255922086}
+{"brand":"Turtle Beach","year":2014,"count":91,"sale":6000.340093612671,"avg_price":65.93780322651287}
+{"brand":"Ziploc","year":2012,"count":91,"sale":1159.8699951171875,"avg_price":12.745824122166896}
+{"brand":"LION&#39;S GATE ENTERTAINMENT","year":2003,"count":91,"sale":1116.8100199699402,"avg_price":12.272637582087254}
+{"brand":"Conair","year":2010,"count":91,"sale":2568.53995513916,"avg_price":28.225713792738023}
+{"brand":"G-Technology","year":2013,"count":91,"sale":21444.04991531372,"avg_price":235.64890016828264}
+{"brand":"TWENTIETH CENTURY FOX HOME ENT","year":2004,"count":91,"sale":3158.030080795288,"avg_price":34.70362726148668}
+{"brand":"Harris Engineering","year":2013,"count":91,"sale":7214.409944534302,"avg_price":79.2792301597176}
+{"brand":"Philosophy","year":2014,"count":91,"sale":2658.9399933815002,"avg_price":29.219120806390112}
+{"brand":"V-MODA","year":2014,"count":91,"sale":10294.150001525879,"avg_price":113.12252748929538}
+{"brand":"Spin Master Games","year":2012,"count":91,"sale":1278.6299648284912,"avg_price":14.050878734379024}
+{"brand":"Days of Wonder","year":2014,"count":91,"sale":2710.729974746704,"avg_price":29.788241480733014}
+{"brand":"Aroma","year":2011,"count":91,"sale":3183.799982070923,"avg_price":34.98681298979036}
+{"brand":"Battat","year":2014,"count":91,"sale":1960.0099811553955,"avg_price":21.538571221487864}
+{"brand":"Pyrex","year":2010,"count":91,"sale":1270.2599964141846,"avg_price":13.958901059496533}
+{"brand":"Hamilton Beach","year":2007,"count":91,"sale":3401.839979171753,"avg_price":37.38285691397531}
+{"brand":"myBaby","year":2013,"count":91,"sale":1869.4199876785278,"avg_price":20.54307678767613}
+{"brand":"Walt Disney Video","year":2009,"count":90,"sale":959.4100165367126,"avg_price":10.660111294852364}
+{"brand":"Howard Products","year":2013,"count":90,"sale":643.0499868392944,"avg_price":7.144999853769938}
+{"brand":"Yongnuo","year":2011,"count":90,"sale":3532.1299629211426,"avg_price":39.245888476901584}
+{"brand":"Nifty","year":2013,"count":90,"sale":1514.9900131225586,"avg_price":16.83322236802843}
+{"brand":"Metamucil","year":2013,"count":90,"sale":1813.1999816894531,"avg_price":20.146666463216146}
+{"brand":"Zak Designs","year":2013,"count":90,"sale":997.3299903869629,"avg_price":11.08144433763292}
+{"brand":"Sabre","year":2013,"count":90,"sale":1012.4900045394897,"avg_price":11.249888939327663}
+{"brand":"Bayco","year":2014,"count":90,"sale":1617.7900018692017,"avg_price":17.97544446521335}
+{"brand":"Tigi","year":2013,"count":90,"sale":1126.460012435913,"avg_price":12.516222360399034}
+{"brand":"Victory Records","year":2006,"count":90,"sale":710.3099880218506,"avg_price":7.892333200242784}
+{"brand":"Popular Bath","year":2013,"count":90,"sale":2066.799982070923,"avg_price":22.964444245232475}
+{"brand":"Hunter&#39;s Specialties","year":2013,"count":90,"sale":1164.8600025177002,"avg_price":12.942888916863335}
+{"brand":"Bonavita","year":2014,"count":90,"sale":8297.86030960083,"avg_price":92.19844788445367}
+{"brand":"Duck","year":2013,"count":90,"sale":1201.9999885559082,"avg_price":13.35555542839898}
+{"brand":"Altec Lansing","year":2011,"count":90,"sale":2642.849992752075,"avg_price":29.3649999194675}
+{"brand":"Gaiam Americas","year":2006,"count":90,"sale":1016.1500058174133,"avg_price":11.290555620193482}
+{"brand":"Equate","year":2014,"count":90,"sale":790.4999951124191,"avg_price":8.783333279026879}
+{"brand":"CableJive","year":2013,"count":90,"sale":2847.4600143432617,"avg_price":31.63844460381402}
+{"brand":"Royal Opulence","year":2013,"count":90,"sale":2697.2999382019043,"avg_price":29.969999313354492}
+{"brand":"EnvyDerm","year":2011,"count":90,"sale":3951.89998626709,"avg_price":43.90999984741211}
+{"brand":"Resolve","year":2013,"count":90,"sale":1088.049988746643,"avg_price":12.089444319407145}
+{"brand":"Edwin Jagger","year":2012,"count":90,"sale":2752.430067062378,"avg_price":30.58255630069309}
+{"brand":"EZ-DUZ-IT","year":2014,"count":90,"sale":809.0999794006348,"avg_price":8.989999771118164}
+{"brand":"SODIAL(R)","year":2014,"count":90,"sale":356.01000022888184,"avg_price":3.955666669209798}
+{"brand":"Its a 10","year":2014,"count":90,"sale":1458.7899770736694,"avg_price":16.208777523040773}
+{"brand":"Nissan","year":2014,"count":90,"sale":2859.610041618347,"avg_price":31.773444906870523}
+{"brand":"Smith&#39;s","year":2014,"count":90,"sale":1744.9499716758728,"avg_price":19.38833301862081}
+{"brand":"Crank Brothers","year":2013,"count":90,"sale":3064.8299865722656,"avg_price":34.053666517469615}
+{"brand":"Digital Innovations","year":2012,"count":90,"sale":1402.3100280761719,"avg_price":15.581222534179688}
+{"brand":"Paramount Home Video","year":2011,"count":90,"sale":2109.710020542145,"avg_price":23.441222450468274}
+{"brand":"Netgear","year":2004,"count":90,"sale":6477.0800495147705,"avg_price":71.96755610571967}
+{"brand":"Cosmedica Skincare","year":2014,"count":90,"sale":2314.8599853515625,"avg_price":25.72066650390625}
+{"brand":"Hutzler","year":2014,"count":90,"sale":372.33999848365784,"avg_price":4.137111094262865}
+{"brand":"Airborne","year":2013,"count":90,"sale":849.0999855995178,"avg_price":9.434444284439087}
+{"brand":"Linksys","year":2006,"count":90,"sale":5358.600034713745,"avg_price":59.54000038570828}
+{"brand":"TiVo","year":2011,"count":90,"sale":10872.459703445435,"avg_price":120.80510781606039}
+{"brand":"Ultimate Survival Technologies","year":2013,"count":90,"sale":1250.6399974822998,"avg_price":13.895999972025553}
+{"brand":"Eamee","year":2013,"count":90,"sale":222.96000111103058,"avg_price":2.4773333456781175}
+{"brand":"Universal","year":2005,"count":90,"sale":930.7999992370605,"avg_price":10.342222213745117}
+{"brand":"Keurig","year":2010,"count":90,"sale":5646.179969072342,"avg_price":62.73533298969269}
+{"brand":"RED HOT CHILI PEPPERS","year":2006,"count":90,"sale":980.1000308990479,"avg_price":10.890000343322754}
+{"brand":"Gold Bond","year":2014,"count":90,"sale":1102.6000065803528,"avg_price":12.251111184226142}
+{"brand":"Clean &amp; Clear","year":2013,"count":90,"sale":595.1700050830841,"avg_price":6.613000056478712}
+{"brand":"Mary Meyer","year":2013,"count":90,"sale":1197.4999809265137,"avg_price":13.30555534362793}
+{"brand":"LaserLyte","year":2014,"count":90,"sale":6794.940006732941,"avg_price":75.49933340814378}
+{"brand":"Senbowe","year":2014,"count":90,"sale":1313.1000137329102,"avg_price":14.59000015258789}
+{"brand":"Australian Gold","year":2014,"count":90,"sale":1269.2100019454956,"avg_price":14.102333354949952}
+{"brand":"Simply Right","year":2014,"count":90,"sale":1228.9899969100952,"avg_price":13.65544441011217}
+{"brand":"PhysiciansCare","year":2013,"count":90,"sale":4616.4900188446045,"avg_price":51.29433354271783}
+{"brand":"WELLSPRING/GENIUS","year":2014,"count":89,"sale":2270.160056591034,"avg_price":25.507416366191393}
+{"brand":"DG Eyewear","year":2013,"count":89,"sale":1445.7299909591675,"avg_price":16.244157201788397}
+{"brand":"i.Trek","year":2010,"count":89,"sale":794.6300006657839,"avg_price":8.928426973772853}
+{"brand":"Barlean&#39;s Organic Oils","year":2014,"count":89,"sale":1723.6199789047241,"avg_price":19.366516616907013}
+{"brand":"DJI","year":2013,"count":89,"sale":34311.84999656677,"avg_price":385.5264044558064}
+{"brand":"ZAGG","year":2010,"count":89,"sale":1037.520007133484,"avg_price":11.657528170039145}
+{"brand":"Taylor Thermometers","year":2012,"count":89,"sale":839.6899909973145,"avg_price":9.434718999969824}
+{"brand":"WARNER STUDIOS","year":2011,"count":89,"sale":696.7099900245667,"avg_price":7.828202135107491}
+{"brand":"Homer Laughlin","year":2012,"count":89,"sale":1704.800009727478,"avg_price":19.155056289072785}
+{"brand":"Life-Flo","year":2014,"count":89,"sale":1149.5599946975708,"avg_price":12.916404434804166}
+{"brand":"Fuji","year":2013,"count":89,"sale":1147.56999874115,"avg_price":12.894044929675841}
+{"brand":"AMD","year":2012,"count":89,"sale":8470.229863166809,"avg_price":95.17112205805404}
+{"brand":"Kicker","year":2013,"count":89,"sale":4899.530010223389,"avg_price":55.05089899127403}
+{"brand":"Band-Aid","year":2012,"count":89,"sale":1094.9099910259247,"avg_price":12.30235944972949}
+{"brand":"Pearce Grips","year":2012,"count":89,"sale":779.8599948883057,"avg_price":8.762471852677592}
+{"brand":"Kitchen IQ","year":2013,"count":89,"sale":759.5599813461304,"avg_price":8.53438181287787}
+{"brand":"DYMO","year":2013,"count":89,"sale":2633.419989347458,"avg_price":29.58898864435346}
+{"brand":"Tamrac","year":2009,"count":89,"sale":4975.769949913025,"avg_price":55.90752752711264}
+{"brand":"Mirrycle","year":2012,"count":89,"sale":1073.2200236320496,"avg_price":12.058651950921906}
+{"brand":"Miele","year":2012,"count":89,"sale":15837.330002784729,"avg_price":177.94752812117673}
+{"brand":"Synergy Digital","year":2014,"count":89,"sale":870.1299941539764,"avg_price":9.77674150734805}
+{"brand":"Apple","year":2008,"count":89,"sale":9027.139957914129,"avg_price":101.42853885296773}
+{"brand":"Fujifilm","year":2010,"count":89,"sale":18412.779458522797,"avg_price":206.88516245531233}
+{"brand":"Murad","year":2014,"count":89,"sale":2415.720000267029,"avg_price":27.142921351314932}
+{"brand":"Arc International","year":2013,"count":89,"sale":1753.9400129318237,"avg_price":19.707191156537345}
+{"brand":"SE","year":2010,"count":89,"sale":429.4399948120117,"avg_price":4.825168481033839}
+{"brand":"Vantec","year":2010,"count":89,"sale":2381.6199989318848,"avg_price":26.75977526889758}
+{"brand":"Safari Ltd.","year":2013,"count":89,"sale":1110.4599933624268,"avg_price":12.47707857710592}
+{"brand":"Whetstone Cutlery","year":2013,"count":89,"sale":1565.5000176429749,"avg_price":17.58988783868511}
+{"brand":"Prepac","year":2013,"count":89,"sale":12995.459999084473,"avg_price":146.0164044840952}
+{"brand":"Suncast","year":2013,"count":89,"sale":4399.480094909668,"avg_price":49.43236061696256}
+{"brand":"THERA&deg;PEARL","year":2014,"count":89,"sale":990.9899797439575,"avg_price":11.134718873527612}
+{"brand":"Foot Traffic","year":2014,"count":89,"sale":935.1099920272827,"avg_price":10.506853843003176}
+{"brand":"Portland Design Works","year":2012,"count":89,"sale":1846.5400276184082,"avg_price":20.747640759757395}
+{"brand":"Priva","year":2013,"count":89,"sale":1091.9099912643433,"avg_price":12.268651587239813}
+{"brand":"Probar","year":2010,"count":89,"sale":2124.8000202178955,"avg_price":23.874157530538152}
+{"brand":"Brownmed","year":2013,"count":89,"sale":1687.739995956421,"avg_price":18.96337074108338}
+{"brand":"Moroccanoil","year":2014,"count":89,"sale":2474.469976425171,"avg_price":27.803033442979448}
+{"brand":"Ontel","year":2013,"count":89,"sale":1705.4600172042847,"avg_price":19.162472103418928}
+{"brand":"Ubiquiti","year":2012,"count":89,"sale":8429.650022506714,"avg_price":94.71516879221026}
+{"brand":"Arctic Silver 5","year":2011,"count":89,"sale":635.8200106620789,"avg_price":7.144045063618863}
+{"brand":"Safety 1st","year":2010,"count":89,"sale":1100.369997650385,"avg_price":12.36370783876837}
+{"brand":"WARNER STUDIOS","year":2010,"count":89,"sale":654.3799905776978,"avg_price":7.352584163794357}
+{"brand":"Gaiam","year":2007,"count":89,"sale":989.299991607666,"avg_price":11.115730242782764}
+{"brand":"Amco","year":2010,"count":88,"sale":956.3199853897095,"avg_price":10.867272561246699}
+{"brand":"H2W","year":2013,"count":88,"sale":435.9700031876564,"avg_price":4.954204581677914}
+{"brand":"Aqueduck","year":2013,"count":88,"sale":830.9400157928467,"avg_price":9.442500179464167}
+{"brand":"Moshi","year":2012,"count":88,"sale":2376.6500387191772,"avg_price":27.007386803627014}
+{"brand":"Neat-Oh","year":2013,"count":88,"sale":1442.8399953842163,"avg_price":16.395909038457003}
+{"brand":"Petzl","year":2013,"count":88,"sale":3102.2999992370605,"avg_price":35.25340908223932}
+{"brand":"Pedifix","year":2014,"count":88,"sale":787.1100010871887,"avg_price":8.944431830536235}
+{"brand":"Hawking Technology","year":2011,"count":88,"sale":7725.699895858765,"avg_price":87.79204427112232}
+{"brand":"CellularFactory","year":2013,"count":88,"sale":573.0799986124039,"avg_price":6.51227271150459}
+{"brand":"LifeProof","year":2012,"count":88,"sale":6464.1198387146,"avg_price":73.45590725812045}
+{"brand":"Toogoo","year":2014,"count":88,"sale":268.75000154972076,"avg_price":3.053977290337736}
+{"brand":"Kitchen Elements","year":2013,"count":88,"sale":1816.5200328826904,"avg_price":20.642273100939665}
+{"brand":"Leifheit","year":2011,"count":88,"sale":3738.419912338257,"avg_price":42.48204445838928}
+{"brand":"Warner Bros","year":2011,"count":88,"sale":1037.5200080871582,"avg_price":11.790000091899525}
+{"brand":"Shea Moisture","year":2012,"count":88,"sale":1120.9700016975403,"avg_price":12.738295473835684}
+{"brand":"HealthWorks","year":2013,"count":88,"sale":1754.8400497436523,"avg_price":19.941364201632414}
+{"brand":"MayFair Games","year":2013,"count":88,"sale":2354.21000289917,"avg_price":26.752386396581475}
+{"brand":"KONAD Nail Art","year":2011,"count":88,"sale":577.5299952030182,"avg_price":6.562840854579752}
+{"brand":"Emeril","year":2013,"count":88,"sale":9541.599952697754,"avg_price":108.4272721897472}
+{"brand":"EOS","year":2013,"count":88,"sale":909.4500049352646,"avg_price":10.334659146991642}
+{"brand":"Beyblade","year":2012,"count":88,"sale":3343.6699113845825,"avg_price":37.99624899300662}
+{"brand":"Troy Industries","year":2014,"count":88,"sale":5507.269908905029,"avg_price":62.58261260119352}
+{"brand":"Zwilling J.A. Henckels","year":2013,"count":88,"sale":9700.269927978516,"avg_price":110.23034009066495}
+{"brand":"ZyXEL","year":2011,"count":88,"sale":7472.899917602539,"avg_price":84.9193172454834}
+{"brand":"Manfrotto","year":2009,"count":88,"sale":13001.880004882812,"avg_price":147.74863641912287}
+{"brand":"LaCie","year":2012,"count":88,"sale":7157.269962310791,"avg_price":81.33261320807718}
+{"brand":"Universal Music","year":2005,"count":88,"sale":1985.6599833965302,"avg_price":22.56431799314239}
+{"brand":"Dreamworks Skg","year":2008,"count":88,"sale":708.8599920272827,"avg_price":8.055227182128213}
+{"brand":"Leachco","year":2011,"count":88,"sale":2850.8900566101074,"avg_price":32.39647791602395}
+{"brand":"Olde Thompson","year":2013,"count":88,"sale":2258.510000228882,"avg_price":25.664886366237294}
+{"brand":"HKS","year":2014,"count":88,"sale":828.6400081515312,"avg_price":9.416363728994673}
+{"brand":"Trojan","year":2014,"count":88,"sale":1182.4900150299072,"avg_price":13.437386534430765}
+{"brand":"Baby Alive","year":2011,"count":88,"sale":2787.629991531372,"avg_price":31.67761354012923}
+{"brand":"Channel Master","year":2013,"count":88,"sale":4745.000043869019,"avg_price":53.92045504396612}
+{"brand":"Dr. Brown&#39;s","year":2010,"count":88,"sale":1222.7600145339966,"avg_price":13.895000165159052}
+{"brand":"Hauppauge","year":2014,"count":88,"sale":9644.530143737793,"avg_price":109.59693345156583}
+{"brand":"Black &amp; Decker","year":2007,"count":88,"sale":4389.929931163788,"avg_price":49.885567399588496}
+{"brand":"MindWare","year":2014,"count":88,"sale":2194.1500267982483,"avg_price":24.933523031798277}
+{"brand":"Playtex","year":2010,"count":88,"sale":1298.530015707016,"avg_price":14.756022905761546}
+{"brand":"Omron","year":2009,"count":88,"sale":4977.800071716309,"avg_price":56.565909905867144}
+{"brand":"Croscill","year":2013,"count":88,"sale":2760.9499473571777,"avg_price":31.374431219967928}
+{"brand":"BioSynergy","year":2012,"count":88,"sale":1755.6000671386719,"avg_price":19.950000762939453}
+{"brand":"Soft &#39;N Style","year":2014,"count":88,"sale":412.5700056552887,"avg_price":4.688295518810099}
+{"brand":"Ameda","year":2014,"count":88,"sale":3296.3800642490387,"avg_price":37.45886436646635}
+{"brand":"Mad Catz","year":2011,"count":88,"sale":7602.28009057045,"avg_price":86.38954648375511}
+{"brand":"Optical Quantum","year":2013,"count":88,"sale":2831.440040588379,"avg_price":32.17545500668612}
+{"brand":"Nostalgia Electrics","year":2012,"count":88,"sale":3781.8800201416016,"avg_price":42.97590931979093}
+{"brand":"Mrs. Meyer&#39;s Clean Day","year":2013,"count":88,"sale":1486.290002822876,"avg_price":16.889659122987226}
+{"brand":"Stork Craft","year":2013,"count":88,"sale":19817.98016357422,"avg_price":225.20432004061612}
+{"brand":"International Playthings","year":2013,"count":88,"sale":2026.0900201797485,"avg_price":23.023750229315326}
+{"brand":"MetalTac","year":2013,"count":88,"sale":386.429998755455,"avg_price":4.391249985857443}
+{"brand":"UNIVERSAL STUDIOS HOME ENTERTAIN.","year":2013,"count":88,"sale":994.9000020027161,"avg_price":11.305681840939956}
+{"brand":"CrazyOnDigital","year":2013,"count":88,"sale":332.0800014734268,"avg_price":3.77363638037985}
+{"brand":"Solid Dealio","year":2013,"count":88,"sale":201.2000026702881,"avg_price":2.2863636667078193}
+{"brand":"Range Kleen","year":2013,"count":88,"sale":2158.800057411194,"avg_price":24.53181883421811}
+{"brand":"Primos Hunting Calls","year":2014,"count":87,"sale":1967.0399813652039,"avg_price":22.609654958220734}
+{"brand":"GroVia","year":2014,"count":87,"sale":1125.979998588562,"avg_price":12.942298834351288}
+{"brand":"Ritz","year":2013,"count":87,"sale":881.349986076355,"avg_price":10.130459610073046}
+{"brand":"Schwinn","year":2011,"count":87,"sale":5086.409994125366,"avg_price":58.464482691096165}
+{"brand":"MET-Rx","year":2014,"count":87,"sale":2148.7699975967407,"avg_price":24.698505719502766}
+{"brand":"Verizon","year":2014,"count":87,"sale":905.7799981832504,"avg_price":10.411264346933914}
+{"brand":"Lenmar","year":2007,"count":87,"sale":1085.6599955558777,"avg_price":12.478850523630777}
+{"brand":"Band-Aid","year":2010,"count":87,"sale":1573.2400057315826,"avg_price":18.083218456684858}
+{"brand":"Wigwam","year":2013,"count":87,"sale":1032.8199996948242,"avg_price":11.871494249365796}
+{"brand":"ZyXel","year":2013,"count":87,"sale":6629.440231323242,"avg_price":76.20046242900278}
+{"brand":"XShot","year":2014,"count":87,"sale":2129.800033569336,"avg_price":24.48046015596938}
+{"brand":"MIU France","year":2011,"count":87,"sale":2069.180000305176,"avg_price":23.783678164427307}
+{"brand":"SureFire","year":2014,"count":87,"sale":8810.800018310547,"avg_price":101.27356342885686}
+{"brand":"Griffin Technology","year":2008,"count":87,"sale":1271.259985703975,"avg_price":14.61218374372385}
+{"brand":"Epower Mall","year":2013,"count":87,"sale":387.87999641895294,"avg_price":4.458390763436241}
+{"brand":"Bummis","year":2013,"count":87,"sale":1167.2099857330322,"avg_price":13.41620673256359}
+{"brand":"Seventh Generation","year":2011,"count":87,"sale":1784.499971151352,"avg_price":20.511493921279907}
+{"brand":"FOX Home Entertainment","year":2007,"count":87,"sale":1207.8700046539307,"avg_price":13.88356327188426}
+{"brand":"Harold Imports","year":2013,"count":87,"sale":636.0599842071533,"avg_price":7.311034301231647}
+{"brand":"Spracht","year":2014,"count":87,"sale":3227.1301345825195,"avg_price":37.09344982278758}
+{"brand":"Mega Bloks","year":2012,"count":87,"sale":3087.0200362205505,"avg_price":35.48298892207529}
+{"brand":"Creative Labs","year":2010,"count":87,"sale":6179.830109834671,"avg_price":71.03252999809966}
+{"brand":"D+L Company","year":2013,"count":87,"sale":1043.0999937057495,"avg_price":11.989655100066086}
+{"brand":"Generic","year":2004,"count":87,"sale":906.3800101280212,"avg_price":10.418161035954267}
+{"brand":"Lansinoh","year":2014,"count":87,"sale":1832.1599912643433,"avg_price":21.059310244417738}
+{"brand":"Dockers","year":2013,"count":87,"sale":2196.419984817505,"avg_price":25.246206722040284}
+{"brand":"Disney","year":2003,"count":87,"sale":1021.2899918556213,"avg_price":11.738965423627832}
+{"brand":"Jarden","year":2013,"count":87,"sale":1351.8900346755981,"avg_price":15.538965915811472}
+{"brand":"YONGNUO","year":2012,"count":87,"sale":4912.019920349121,"avg_price":56.459999084472656}
+{"brand":"Umgd/Mca","year":2013,"count":87,"sale":597.259991645813,"avg_price":6.86505737523923}
+{"brand":"Le Pan","year":2012,"count":87,"sale":8004.0,"avg_price":92.0}
+{"brand":"Pyrex","year":2008,"count":87,"sale":1255.4199986457825,"avg_price":14.430114926963016}
+{"brand":"Nissan","year":2013,"count":87,"sale":3247.980049133301,"avg_price":37.33310401302644}
+{"brand":"Mushkin","year":2013,"count":87,"sale":7589.590072631836,"avg_price":87.23666750151536}
+{"brand":"Twelve South","year":2012,"count":87,"sale":4461.630012512207,"avg_price":51.283103592094335}
+{"brand":"The Wet Brush","year":2013,"count":87,"sale":882.8599724769592,"avg_price":10.147815775597232}
+{"brand":"Datacolor","year":2012,"count":87,"sale":15111.780258178711,"avg_price":173.69862365722656}
+{"brand":"Smith&#39;s","year":2012,"count":87,"sale":1852.2099795341492,"avg_price":21.289769879702863}
+{"brand":"Spinbrush","year":2013,"count":87,"sale":823.1399998664856,"avg_price":9.46137930881018}
+{"brand":"Denon","year":2012,"count":87,"sale":42450.81980895996,"avg_price":487.94045757425243}
+{"brand":"Eagle Cell","year":2012,"count":87,"sale":272.5900025367737,"avg_price":3.133218419962916}
+{"brand":"Whirlpool","year":2012,"count":87,"sale":7773.110114812851,"avg_price":89.34609327371093}
+{"brand":"Francois et Mimi","year":2013,"count":87,"sale":1635.500020980835,"avg_price":18.798850815871667}
+{"brand":"BabyBj&ouml;rn","year":2010,"count":87,"sale":3880.659978866577,"avg_price":44.605287113408934}
+{"brand":"Closet Complete","year":2012,"count":87,"sale":2179.3899726867676,"avg_price":25.050459456169744}
+{"brand":"Orbit Baby","year":2014,"count":87,"sale":22754.0,"avg_price":261.5402298850575}
+{"brand":"Alex and Ani","year":2013,"count":87,"sale":2366.319984436035,"avg_price":27.199080280873968}
+{"brand":"MindWare","year":2012,"count":87,"sale":1986.100034236908,"avg_price":22.828736025711585}
+{"brand":"Mtech USA","year":2014,"count":87,"sale":918.9500026702881,"avg_price":10.562643708853885}
+{"brand":"Muscletech","year":2012,"count":87,"sale":1998.3899402618408,"avg_price":22.969999313354492}
+{"brand":"Maxell","year":2009,"count":87,"sale":1168.530002117157,"avg_price":13.431379334679965}
+{"brand":"Citi Electronics","year":2014,"count":86,"sale":589.749988079071,"avg_price":6.857558000919431}
+{"brand":"Anchor Hocking","year":2011,"count":86,"sale":1727.689992904663,"avg_price":20.089418522147245}
+{"brand":"Lalaloopsy","year":2012,"count":86,"sale":3925.8500175476074,"avg_price":45.649418808693106}
+{"brand":"Miracle Blanket","year":2013,"count":86,"sale":2749.4199409484863,"avg_price":31.969999313354492}
+{"brand":"M.V. Trading Co.","year":2013,"count":86,"sale":976.2899985313416,"avg_price":11.352209285248158}
+{"brand":"Chemex","year":2014,"count":86,"sale":2709.709990501404,"avg_price":31.508255703504695}
+{"brand":"Lifefactory","year":2012,"count":86,"sale":1216.890013743192,"avg_price":14.14988388073479}
+{"brand":"DII","year":2014,"count":86,"sale":1494.7199802398682,"avg_price":17.380464886510094}
+{"brand":"Its a 10","year":2012,"count":86,"sale":1317.7899808883667,"avg_price":15.323139312655426}
+{"brand":"Evenflo","year":2011,"count":86,"sale":2708.5099804401398,"avg_price":31.49430209814116}
+{"brand":"Diamond Select","year":2013,"count":86,"sale":2852.6999835968018,"avg_price":33.170930041823276}
+{"brand":"Bumbo","year":2014,"count":86,"sale":2459.080057144165,"avg_price":28.593954152839128}
+{"brand":"Giottos","year":2013,"count":86,"sale":1715.700065612793,"avg_price":19.950000762939453}
+{"brand":"Clubman Pinaud","year":2013,"count":86,"sale":696.3800077438354,"avg_price":8.097441950509715}
+{"brand":"Bialetti","year":2012,"count":86,"sale":2538.7899870872498,"avg_price":29.520813803340115}
+{"brand":"MegaFood","year":2013,"count":86,"sale":2782.0500259399414,"avg_price":32.34941890627839}
+{"brand":"Andis","year":2012,"count":86,"sale":2796.460006713867,"avg_price":32.51697682225427}
+{"brand":"Invicta","year":2010,"count":86,"sale":6506.680034637451,"avg_price":75.65907017020292}
+{"brand":"Dotting","year":2014,"count":86,"sale":180.59999179840088,"avg_price":2.0999999046325684}
+{"brand":"Taggies","year":2013,"count":86,"sale":2627.8600215911865,"avg_price":30.556511878967285}
+{"brand":"Mad Catz","year":2014,"count":86,"sale":8980.460087299347,"avg_price":104.42395450348077}
+{"brand":"Tapco","year":2011,"count":86,"sale":1032.6200008392334,"avg_price":12.00720931208411}
+{"brand":"uxcell","year":2012,"count":86,"sale":388.36999785900116,"avg_price":4.515930207662804}
+{"brand":"Zune","year":2009,"count":86,"sale":1649.630009651184,"avg_price":19.18174429826958}
+{"brand":"WorthTrust","year":2013,"count":86,"sale":688.9500045776367,"avg_price":8.01104656485624}
+{"brand":"ZPS","year":2014,"count":86,"sale":521.5799896717072,"avg_price":6.064883600833804}
+{"brand":"Team Marketing","year":2005,"count":86,"sale":1094.5399894714355,"avg_price":12.727209179900413}
+{"brand":"Samsonite","year":2012,"count":86,"sale":5669.870044708252,"avg_price":65.92872145009595}
+{"brand":"20th Century Fox","year":2008,"count":86,"sale":1286.519984960556,"avg_price":14.959534708843675}
+{"brand":"SOL REPUBLIC","year":2013,"count":86,"sale":6132.819995880127,"avg_price":71.31186041721078}
+{"brand":"Withings","year":2013,"count":86,"sale":10450.280090332031,"avg_price":121.51488477130269}
+{"brand":"Citracal","year":2013,"count":86,"sale":1119.5500268936157,"avg_price":13.018023568530415}
+{"brand":"D&#39;Addario","year":2012,"count":86,"sale":324.2899976372719,"avg_price":3.7708139260147893}
+{"brand":"WELLSPRING/GENIUS","year":2008,"count":86,"sale":1235.6500024795532,"avg_price":14.368023284645968}
+{"brand":"Western Digital","year":2008,"count":86,"sale":5114.039922714233,"avg_price":59.465580496677134}
+{"brand":"Teton Sports","year":2012,"count":86,"sale":8126.110029220581,"avg_price":94.4896515025649}
+{"brand":"Unknown","year":2005,"count":86,"sale":1691.300015926361,"avg_price":19.666279254957686}
+{"brand":"TiVo","year":2010,"count":85,"sale":11027.459672927856,"avg_price":129.7348196815042}
+{"brand":"Simmons","year":2012,"count":85,"sale":6475.569980621338,"avg_price":76.18317624260398}
+{"brand":"Dual Electronics","year":2012,"count":85,"sale":5372.669961929321,"avg_price":63.20788190505084}
+{"brand":"KitchenAid","year":2006,"count":85,"sale":17271.82975769043,"avg_price":203.19799714929917}
+{"brand":"Columbia/Tristar Studios","year":2011,"count":85,"sale":863.1499948501587,"avg_price":10.154705821766573}
+{"brand":"elago","year":2011,"count":85,"sale":908.1300029754639,"avg_price":10.683882387946634}
+{"brand":"Fury Tactical","year":2013,"count":85,"sale":849.2100067138672,"avg_price":9.990705961339614}
+{"brand":"Teac","year":2013,"count":85,"sale":18142.259973526,"avg_price":213.43835262971766}
+{"brand":"A&amp;E","year":2013,"count":85,"sale":2306.2399940490723,"avg_price":27.132235224106733}
+{"brand":"Vacu Vin","year":2011,"count":85,"sale":1225.0600008964539,"avg_price":14.41247059878181}
+{"brand":"Supersonic","year":2013,"count":85,"sale":2340.1200358867645,"avg_price":27.530823951608994}
+{"brand":"Echo Bridge Entertainment","year":2013,"count":85,"sale":388.5600037574768,"avg_price":4.571294161852668}
+{"brand":"Steren","year":2012,"count":85,"sale":791.2500027790666,"avg_price":9.308823562106666}
+{"brand":"Logisys","year":2012,"count":85,"sale":1732.9600096940994,"avg_price":20.38776481993058}
+{"brand":"Sightmark","year":2012,"count":85,"sale":6498.349931716919,"avg_price":76.45117566725787}
+{"brand":"Hawking Technology","year":2013,"count":85,"sale":7339.570001602173,"avg_price":86.34788237179026}
+{"brand":"Sharp","year":2014,"count":85,"sale":14614.35997414589,"avg_price":171.93364675465753}
+{"brand":"Regalo","year":2011,"count":85,"sale":3303.4000358581543,"avg_price":38.86352983362534}
+{"brand":"Natural Factors","year":2014,"count":85,"sale":1486.9999980926514,"avg_price":17.494117624619427}
+{"brand":"Arc International","year":2014,"count":85,"sale":1583.850004196167,"avg_price":18.633529461131378}
+{"brand":"Proctor Silex","year":2011,"count":85,"sale":1974.1699752807617,"avg_price":23.22552912095014}
+{"brand":"LeapFrog Enterprises","year":2008,"count":85,"sale":4899.060024023056,"avg_price":57.63600028262419}
+{"brand":"PlaSmart","year":2012,"count":85,"sale":1778.4100074768066,"avg_price":20.922470676197726}
+{"brand":"Smart Weigh","year":2014,"count":85,"sale":1424.630018234253,"avg_price":16.760353155697093}
+{"brand":"Zyliss","year":2010,"count":85,"sale":967.9400057792664,"avg_price":11.387529479756076}
+{"brand":"HIC Brands That Cook","year":2010,"count":85,"sale":1177.5599904060364,"avg_price":13.853646945953368}
+{"brand":"Ziotek","year":2013,"count":85,"sale":923.3000090122223,"avg_price":10.862353047202616}
+{"brand":"TWENTIETH CENTURY FOX HOME ENT","year":2005,"count":85,"sale":2351.0100293159485,"avg_price":27.6589415213641}
+{"brand":"Bakers &amp; Chefs","year":2014,"count":85,"sale":1076.4299898147583,"avg_price":12.663882233114803}
+{"brand":"Daisy","year":2012,"count":85,"sale":2082.740006685257,"avg_price":24.502823608061846}
+{"brand":"Zojirushi","year":2008,"count":85,"sale":9384.859958648682,"avg_price":110.41011716057272}
+{"brand":"Mgm/Ua Studios","year":2003,"count":85,"sale":539.9399919509888,"avg_price":6.352235199423397}
+{"brand":"EnviroCare","year":2012,"count":85,"sale":943.1700065135956,"avg_price":11.09611772368936}
+{"brand":"CaseCrown","year":2014,"count":85,"sale":462.91002082824707,"avg_price":5.446000245038201}
+{"brand":"Oneida","year":2012,"count":85,"sale":4758.36003780365,"avg_price":55.980706327101764}
+{"brand":"Thorne Research","year":2013,"count":85,"sale":2697.269994735718,"avg_price":31.732588173361385}
+{"brand":"Emson","year":2012,"count":85,"sale":750.9299812316895,"avg_price":8.83447036743164}
+{"brand":"KRE-O","year":2013,"count":85,"sale":1439.9299960136414,"avg_price":16.940352894278135}
+{"brand":"GNWE","year":2014,"count":85,"sale":156.64999980665743,"avg_price":1.8429411741959698}
+{"brand":"Aussie","year":2013,"count":85,"sale":1273.0400047302246,"avg_price":14.97694123212029}
+{"brand":"KLOUD City","year":2014,"count":85,"sale":938.2999894618988,"avg_price":11.038823405434103}
+{"brand":"Peerless","year":2009,"count":85,"sale":5109.089979171753,"avg_price":60.10694093143239}
+{"brand":"Thirstystone","year":2013,"count":85,"sale":1472.0300064086914,"avg_price":17.31800007539637}
+{"brand":"PEDCO","year":2013,"count":85,"sale":1367.4499988555908,"avg_price":16.08764704535989}
+{"brand":"Shooters Ridge","year":2013,"count":85,"sale":1502.3299713134766,"avg_price":17.674470250746783}
+{"brand":"DISNEY","year":2005,"count":85,"sale":1083.7899851799011,"avg_price":12.750470413881189}
+{"brand":"Portland Design Works","year":2014,"count":85,"sale":1715.350025177002,"avg_price":20.18058853149414}
+{"brand":"Eminence Organic Skin Care","year":2013,"count":85,"sale":2716.820016860962,"avg_price":31.962588433658375}
+{"brand":"Gumdrop Cases","year":2012,"count":85,"sale":4115.690040588379,"avg_price":48.41988283045151}
+{"brand":"JJC","year":2013,"count":85,"sale":1150.6399793624878,"avg_price":13.536940933676327}
+{"brand":"Lions Gate","year":2003,"count":85,"sale":906.2999939918518,"avg_price":10.662352870492374}
+{"brand":"Eton","year":2014,"count":85,"sale":4020.719995498657,"avg_price":47.302588182337146}
+{"brand":"Vidmark/Trimark","year":2012,"count":85,"sale":604.9399852752686,"avg_price":7.116941003238454}
+{"brand":"Butterfly","year":2013,"count":85,"sale":1644.1100387573242,"avg_price":19.342471044203815}
+{"brand":"Shea Moisture","year":2014,"count":85,"sale":1022.1300024986267,"avg_price":12.02505885292502}
+{"brand":"Peerless","year":2013,"count":85,"sale":11382.729948043823,"avg_price":133.91446997698617}
+{"brand":"Combat Optical","year":2014,"count":85,"sale":675.3999886512756,"avg_price":7.945882219426772}
+{"brand":"Cmple","year":2012,"count":85,"sale":865.6499900817871,"avg_price":10.184117530373966}
