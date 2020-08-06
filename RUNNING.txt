@@ -1,0 +1,139 @@
+Get the data ready:
+Data set can be downloaded from http://jmcauley.ucsd.edu/data/amazon/links.html
+Before run our program, make sure the directory structure are as follows.
+
+Project_folder -> meta ->   meta_Automotive.json.gz
+                            meta_Baby.json.gz
+                            meta_Beauty.json.gz
+                            meta_CDs_and_Vinyl.json.gz
+                            meta_Cell_Phones_and_Accessories.json.gz
+                            meta_Clothing_Shoes_and_Jewelry.json.gz
+                            meta_Digital_Music.json.gz
+                            meta_Electronics.json.gz
+                            meta_Grocery_and_Gourmet_Food.json.gz
+                            meta_Health_and_Personal_Care.json.gz
+                            meta_Home_and_Kitchen.json.gz
+                            meta_Movies_and_TV.json.gz
+                            meta_Musical_Instruments.json.gz
+                            meta_Office_Products.json.gz
+                            meta_Patio_Lawn_and_Garden.json.gz
+                            meta_Pet_Supplies.json.gz
+                            meta_Sports_and_Outdoors.json.gz
+                            meta_Tools_and_Home_Improvement.json.gz
+                            meta_Toys_and_Games.json.gz
+                            meta_Video_Games.json.gz
+
+Project_folder -> reviews -> reviews_Automotive_5.json.gz
+                            reviews_Baby_5.json.gz
+                            reviews_Beauty_5.json.gz
+                            reviews_CDs_and_Vinyl_5.json.gz
+                            reviews_Cell_Phones_and_Accessories_5.json.gz
+                            reviews_Clothing_Shoes_and_Jewelry_5.json.gz
+                            reviews_Digital_Music_5.json.gz
+                            reviews_Electronics_5.json.gz
+                            reviews_Grocery_and_Gourmet_Food_5.json.gz
+                            reviews_Health_and_Personal_Care_5.json.gz
+                            reviews_Home_and_Kitchen_5.json.gz
+                            reviews_Movies_and_TV_5.json.gz
+                            reviews_Musical_Instruments_5.json.gz
+                            reviews_Office_Products_5.json.gz
+                            reviews_Patio_Lawn_and_Garden_5.json.gz
+                            reviews_Pet_Supplies_5.json.gz
+                            reviews_Sports_and_Outdoors_5.json.gz
+                            reviews_Tools_and_Home_Improvement_5.json.gz
+                            reviews_Toys_and_Games_5.json.gz
+                            reviews_Video_Games_5.json.gz
+
+Project_folder -> ratings -> ratings_Automotive.csv
+                            ratings_Baby.csv
+                            ratings_Beauty.csv
+                            ratings_CDs_and_Vinyl.csv
+                            ratings_Cell_Phones_and_Accessories.csv
+                            ratings_Clothing_Shoes_and_Jewelry.csv
+                            ratings_Digital_Music.csv
+                            ratings_Electronics.csv
+                            ratings_Grocery_and_Gourmet_Food.csv
+                            ratings_Health_and_Personal_Care.csv
+                            ratings_Home_and_Kitchen.csv
+                            ratings_Movies_and_TV.csv
+                            ratings_Musical_Instruments.csv
+                            ratings_Office_Products.csv
+                            ratings_Patio_Lawn_and_Garden.csv
+                            ratings_Pet_Supplies.csv
+                            ratings_Sports_and_Outdoors.csv
+                            ratings_Tools_and_Home_Improvement.csv
+                            ratings_Toys_and_Games.csv
+                            ratings_Video_Games.csv
+
+
+
+Program Usage(it is important to run ETL_all before all other programs):
+
+ETL_all.py [ratings/reviews]
+ETL_all.py [review_meta] [reviews] [meta]
+rating_price.py [single/all] [input] [output]
+rating_score.py [single/all] [input] [output]
+rating_stats.py [single/all] [input] [category](optional) [start_date] [end_date]
+brand_effect_analysis.py [single/all] [input] [category](optional) [start_date] [end_date]
+count_brand.py [single/all] ([category]) [input] [start_date] [end_date]
+popularity_trends.py [input] [start_date] [end_date]
+fake_review_detection.py review_meta [start_date] [end_date]
+fake_review_graph.py [detail_input] [interval_input] [port]
+correlation.py review_meta
+featured_user_graph.py [port]
+PercentageByID.py [review_meta] [ID]
+User_Percentage.py [review_meta]
+Top10ReviewItems.py [single/all] [input] [category](optional) [start_date] [end_date]
+
+
+
+Commandline examples of how to run our program on cluster
+(or locally if hadoop and spark are configured properly):
+
+>spark-submit ETL_all.py ratings
+>spark-submit ETL_all.py reviews
+>spark-submit ETL_all.py review_meta reviews meta
+
+At this point, all the data will be ready for the following executions.
+
+>spark-submit rating_stats.py all review_meta 2003-01-01 2014-12-31
+>spark-submit rating_stats.py single review_meta Baby 2003-01-01 2014-12-31
+
+>spark-submit rating_price.py single review_meta rating_price
+>spark-submit rating_price.py all review_meta rating_price
+
+>spark-submit rating_score.py single review_meta rating_score_cate
+>spark-submit rating_score.py all review_meta rating_price_all
+
+>spark-submit brand_effect_analysis.py single review_meta Baby 2003-01-01 2014-12-31
+>spark-submit brand_effect_analysis.py all review_meta 2003-01-01 2014-12-31
+
+>spark-submit brand_count.py single Baby review_meta 2003-01-01 2014-12-31
+>spark-submit brand_count.py all review_meta 2003-01-01 2014-12-31
+
+>spark-submit popularity_trends.py review_meta 2003-01-01 2014-12-31
+
+>spark-submit fake_review_detection.py review_meta 2004-01-01 2013-12-31
+
+>python3 fake_review_graph.py fake_detail_2004-01-01_2013-12-31 fake_interval_2004-01-01_2013-12-31 8050
+
+>python3 featured_user_graph 8051
+
+>spark-submit correlation.py review_meta
+
+>spark-submit PercentageByID.py review_meta A16CZRQL23NOIW
+
+>spark-submit User_Percentage.py review_meta
+
+>spark-submit Top10ReviewItems.py single review_meta Movies_and_TV 2009 2013
+
+>spark-submit Top10ReviewItems.py all review_meta 2009 2013
+
+In the dash environment, the front web can be executed as following and the data is all from the above executions.
+
+>python3 featured_user_graph.py
+>python3 plot_rating.py
+>python3 plot_brand.py
+>python3 plot_popularity.py
+
+
