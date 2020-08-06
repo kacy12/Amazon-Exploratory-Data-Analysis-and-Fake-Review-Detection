@@ -1,0 +1,18 @@
+User behavior/fake review analysis:
+
+
+1. User rating percentage 
+
+First, to use different ‘user review ID’ to count the  total number of reviews of this user (i.e. name total-count).
+
+Then, we can count how many times this user had given for 5 star, 4 star, 3 star, 2 star and 1 star reviews (ie. name 5-start-c、4-start-c、3-start-c、2-start-c、1-start-c). 
+
+Calculate the percentage:  5-start-c/total-count、4-start-c/total-count、3-start-c/total-count、2-start-c/total-count、1-start-c/total-count. 
+
+2. Unusual user behavior
+
+Using the percentage results from step 1 to decide which user ID we would like to do more analysis. For example, if the result indicates user A’s 5 start rating percentage is much higher than average user’s 5 star rating percentage, we would like to examine more user A’s behavior pattern, to see if it is unusual.
+
+First, to count how many times the user had been given reviews to a certain product, group by ‘user review ID’ and  ‘item_ID’ to calculate count and rating of different products. 
+
+If user A had repeatedly reviewed the same product a lot and constantly giving a high review (much higher than the product’s average rating), it might indicate that this user’s behavior is abnormal and reviews from user A  is lack of credibility.
